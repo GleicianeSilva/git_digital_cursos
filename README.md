@@ -9,3 +9,5 @@
 * Uso do comando git restore
 
 * Comando git push
+
+* comando git pull
