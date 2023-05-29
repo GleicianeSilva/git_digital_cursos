@@ -2,7 +2,7 @@
 
 ## 👩‍💻 Principais Comandos do Git: 
 
-* git init: Inicializa um novo repositório Git vazio.
+* **`git init`**: Inicializa um novo repositório Git vazio.
 * git config: Permite configurar as opções do Git, como nome de usuário, endereço de email, entre outros.
 * git status: Exibe o estado atual do repositório, mostrando quais arquivos foram modificados, adicionados ou removidos.
 * git add: Adiciona arquivos ao índice, preparando-os para serem confirmados.
