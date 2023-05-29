@@ -1,4 +1,4 @@
-# Curso Digital: Git/Versionamento
+# Curso Trilha Digital: Git/Versionamento
 
 ## Gravando mudanças no repositório
 
