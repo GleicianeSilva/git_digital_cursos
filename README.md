@@ -1,6 +1,6 @@
 # 💻 Curso Trilha Digital: Git/Versionamento
 
-## 👩‍ Principais Comandos do Git: 
+## 👩‍💻 Principais Comandos do Git: 
 
 * git init: Inicializa um novo repositório Git vazio.
 * git config: Permite configurar as opções do Git, como nome de usuário, endereço de email, entre outros.
