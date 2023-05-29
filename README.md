@@ -1,15 +1,7 @@
 # Curso Trilha Digital: Git/Versionamento
 
-## Gravando mudanças no repositório
+## Comandos do Git: 
 
-# Salvando modificações no Git
+* git init: Inicializa um novo repositório Git vazio.
+* git config: Permite configurar as opções do Git, como nome de usuário, endereço de email, entre outros.
 
-## Salavando alterações no Git
-
-* Uso do comando git restore
-
-* Comando git push
-
-* comando git pull
-
-* comando git fetch
